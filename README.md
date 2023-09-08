@@ -15,7 +15,8 @@
 <li><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> :heavy_check_mark: </li>
 <li><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> :heavy_check_mark: </li>
 <li><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> :heavy_check_mark: </li>
-
+<li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> :heavy_check_mark: </li>
+	
 </ul>
 <h3> E EM BUSCA DE MUITO MAIS...</h3>
 </li>
